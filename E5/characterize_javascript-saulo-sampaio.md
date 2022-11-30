@@ -90,5 +90,7 @@ Fontes:
 
 1. https://www.gartner.com/en/documents/2071615/programming-languages 
 framework for assessing and characterizing programming languages and assessing their applicability to specific projects
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+3. https://en.wikipedia.org/wiki/JavaScript
 
 
